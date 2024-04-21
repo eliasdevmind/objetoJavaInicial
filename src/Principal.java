@@ -18,7 +18,7 @@ public class Principal {
 
         System.out.println("Média de avaliações do filme: " +favorito.pegaMedia());
 
-
+//ou
         Serie lost = new Serie();
         lost.setNome("Lost");
         lost.setAnoDeLancamento(2000);
